@@ -1,16 +1,20 @@
 # Isagawa QA
 
-**AI-powered test automation that doesn't rot.**
+**AI-powered test automation. Production-grade. Scalable. Maintainable. **
 
 ---
 
 ## What We Do
 
-We build production-grade test suites for web applications.
+The first AI-native test automation company.
 
-Most AI-generated tests become unmaintainable spaghetti within weeks. We built a 5-layer architecture that keeps AI-assisted tests professional and maintainable long-term.
+What takes days now takes hours. 10x your QA velocity.
 
-**The difference:** AI generates the code. Our framework enforces the architecture.
+We deliver the framework, tests for your critical workflows, and training for your team.
+You own it all.
+
+**The difference:** 
+AI generates the code. Our architecture keeps it scalable, maintainable, and production-grade.
 
 ---
 
