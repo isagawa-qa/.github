@@ -32,7 +32,7 @@ Building test suites for popular open source projects. Watch this space.
 
   **Full Delivery** — Framework + tests + training. Your team owns everything.
 
-  [LinkedIn]([https://www.linkedin.com/in/alain-ignacio-54b9823/)) · [Email](mailto:alain@isagawa.co)
+  [LinkedIn](https://www.linkedin.com/in/alain-ignacio-54b9823/)) · [Email](mailto:alain@isagawa.co)
 
 ---
 
