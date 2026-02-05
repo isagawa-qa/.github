@@ -29,13 +29,16 @@ AI generates the code. Our architecture keeps it scalable, maintainable, and pro
 
 ---
 
-## Work With Us
+  ## Work With Us
 
-**Live Demo:** I'll build tests on YOUR site while you watch. You keep everything.
+  The first AI-native test automation company. We work differently.
 
-**Full Implementation:** Production-grade test suite in 4-6 weeks.
+  **Live Demo** — Watch me build tests on your site in real-time. Days → hours. You keep  
+  the code.
 
-**Get in touch:** [LinkedIn](https://linkedin.com/in/solosza)
+  **Full Delivery** — Framework + tests + training. Your team owns everything.
+
+  [LinkedIn](https://linkedin.com/in/solosza) · [Email](mailto:alain@isagawa.co)
 
 ---
 
