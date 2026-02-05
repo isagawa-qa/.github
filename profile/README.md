@@ -15,7 +15,7 @@ You own it all.
 
 **The difference:** 
 AI generates the code. Our architecture keeps it scalable, maintainable, and production-grade.
-
+*Traditional: 1-2 days. Isagawa: ~30-60 minutes for standard workflows.*
 ---
 
 ## See It In Action
@@ -33,8 +33,7 @@ AI generates the code. Our architecture keeps it scalable, maintainable, and pro
 
   The first AI-native test automation company. We work differently.
 
-  **Live Demo** — Watch me build tests on your site in real-time. Days → hours. You keep  
-  the code.
+  **Live Demo** — Watch me build tests on your site in real-time. What takes days now takes hours. I'll prove it in 60 minutes on your site.
 
   **Full Delivery** — Framework + tests + training. Your team owns everything.
 
