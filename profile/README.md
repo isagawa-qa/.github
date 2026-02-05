@@ -20,12 +20,7 @@ AI generates the code. Our architecture keeps it scalable, maintainable, and pro
 
 ## See It In Action
 
-| Showcase | Domain | What It Demonstrates |
-|----------|--------|---------------------|
-| ParaBank Tests | Banking/Finance | Login, transfers, account management |
-| OrangeHRM Tests | Enterprise HR | Employee workflows, leave management |
-
-*Showcases coming soon - each will include full test suite, architecture, and build metrics.*
+Building test suites for popular open source projects. Watch this space.
 
 ---
 
