@@ -36,4 +36,4 @@ Building test suites for popular open source projects. Watch this space.
 
 ---
 
-<sub>Built by Isagawa Corp</sub>
+<sub>Built by Isagawa, LLC</sub>
